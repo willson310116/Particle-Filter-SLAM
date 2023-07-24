@@ -3,5 +3,7 @@ venv/
 frames_20/
 frames_20_dead/
 frames_21/
+frames_21_dead/
 gif/
 data/
+*.png
